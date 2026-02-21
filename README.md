@@ -1,5 +1,5 @@
 # MY FIRST PROJECT LET'S GOOOO
-well Kind of, I made this a few weeks ago when I first started but didn't know about github>
+well Kind of, I made this a few weeks ago when I first started but didn't know about github.
 I am so proud of this I finally figured out how to code in python.
 This took me an embarassing ammount of time though so please be considerate of that when using it.
 
